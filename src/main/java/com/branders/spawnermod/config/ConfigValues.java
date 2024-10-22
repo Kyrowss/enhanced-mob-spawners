@@ -27,7 +27,7 @@ public class ConfigValues {
      * set to default.
      */
     public static void setDefaultConfigValues() {
-        CONFIG_SPEC.put("monster_egg_drop_chance", 4);
+        CONFIG_SPEC.put("monster_egg_drop_chance", 0);
         CONFIG_SPEC.put("disable_silk_touch", 0);
         CONFIG_SPEC.put("disable_spawner_config", 0);
         CONFIG_SPEC.put("disable_count", 0);
